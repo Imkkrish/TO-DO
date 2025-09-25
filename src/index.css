@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.underline-bar {
+  transition: width 0.3s;
+}
